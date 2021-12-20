@@ -1,3 +1,4 @@
+I am editing the README file. Adding some more details about the project description. Hopefully this gets easier with time.
 ### Hi there 👋
 
 <!--
